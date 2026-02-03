@@ -1,0 +1,5 @@
+vizdoom
+numpy
+gymnasium
+stable-baselines3[extra]
+opencv-python
