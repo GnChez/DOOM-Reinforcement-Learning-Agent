@@ -4,6 +4,8 @@ An autonomous agent trained to survive, navigate, and eliminate enemies in the c
 
 https://github.com/user-attachments/assets/c0aa70db-6e78-4074-a433-bbd2da6f44ba
 
+https://github.com/user-attachments/assets/81c4566c-38de-4c73-a7c9-8b380d0e6022
+
 
 This project implements a Deep Reinforcement Learning agent capable of mastering complex Doom scenarios (Deadly Corridor, Defend the Center, Deathmatch).
 
